@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>BANK INFORMATION</title>
+</head>
+<body>
+<h1>Transaction Type</h1>
+<table>
+<tr>
+<th>column1</th>
+</tr>
+<h2>Currency</h2>
+<tr>
+<th>column2</th>
+</tr>
+</body>
+</head>
+</html>
